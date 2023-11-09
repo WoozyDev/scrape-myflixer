@@ -25,4 +25,4 @@ type Movie = {
 }
 ```
 
-- Coded by @woozy666"# scrape-myflixer" 
+- Coded by @woozy666

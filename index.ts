@@ -1,5 +1,4 @@
 import axios, { AxiosResponse } from "axios";
-import { writeFileSync } from 'fs';
 import { Element, load } from 'cheerio';
 
 type Movie = {
